@@ -38,7 +38,7 @@ p {
 }
 
 .section {
-  padding-top: 47px;
+  padding-top: 94px;
   padding-bottom: 47px;
 }
 
@@ -166,6 +166,9 @@ p {
   display: block;
 
   text-align: center;
+
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .hero-title {
@@ -177,8 +180,6 @@ p {
 
   margin-top: 0;
   margin-bottom: 30px;
-
-  padding-top: 200px;
 
   text-align: center;
   text-transform: uppercase;
@@ -304,9 +305,9 @@ p {
 
 .foot {
   background-color: #2f303a;
-  height: 252px;
 
   padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .foot-address {
@@ -355,7 +356,6 @@ p {
 
 .select-list {
   display: flex;
-  margin-top: 94px;
   margin-bottom: 50px;
   justify-content: center;
 }
